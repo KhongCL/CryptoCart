@@ -8,20 +8,16 @@ First, create a new repo from the template. Do note that this repo is using YARN
 
 Once, repo has been created run the following command to install necessary dependencies:
 
+
 yarn install
-
-
-To run the development server, use the following command:
-
-yarn dev
-
-Open http://localhost:3000 with your browser to see the result.
 
 
 =======
 To run the development server, use the following command:
 
 yarn dev
+
+
 Open http://localhost:3000 with your browser to see the result.
 
 
