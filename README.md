@@ -29,6 +29,7 @@ Implement a customer referral program.
 Aggressively market on social media.
 Leverage the Cryptocurrency Community:
 Collaborate with cryptocurrency influencers to reach our target audience.
+
 FUTURE PROSPECTS AND GROWTH:
 
 Expansion Plans:
