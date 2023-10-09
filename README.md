@@ -1,5 +1,4 @@
 # CryptoCart
-Introducing CryptoCart: Your Gateway to Secure and Transparent Online Shopping
 Introducing CryptoCart: Your Secure and Transparent E-commerce Solution
 
 🌐 Problem Statement:
