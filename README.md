@@ -1,6 +1,19 @@
 # CryptoCart
-Introducing CryptoCart: Your Gateway to Secure and Transparent Online Shopping
 Introducing CryptoCart: Your Secure and Transparent E-commerce Solution
+
+Getting Started
+First, create a new repo from the template. Do note that this repo is using YARN and not NPM.
+
+Once, repo has been created run the following command to install necessary dependencies:
+
+yarn install
+
+To run the development server, use the following command:
+
+yarn dev
+
+Open http://localhost:3000 with your browser to see the result.
+
 
 🌐 Problem Statement:
 Traditional e-commerce platforms struggle with transparency, security, and high fees, causing frustration among consumers. Challenges like credit card exchange fees, complex payment methods, and credit card fraud persist.
