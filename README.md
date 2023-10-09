@@ -20,6 +20,7 @@ BUSINESS MODEL:
 
 Revenue streams include minimal transaction fees, monthly seller service charges, and advertising fees for product promotion.
 Competitive advantages include lower fees, faster transactions, enhanced security, and favorable international payments.
+
 MARKETING STRATEGY:
 
 Attract and Retain Customers:
