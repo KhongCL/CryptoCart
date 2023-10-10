@@ -1,5 +1,4 @@
-# CryptoCart
-Introducing CryptoCart: Your Secure and Transparent E-commerce Solution
+# **Introducing ShopCryptopia: Your Secure and Transparent E-commerce Solution**
 
 ## Getting Started
 
