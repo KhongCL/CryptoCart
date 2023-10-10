@@ -2,6 +2,9 @@
 
 ## Getting Started
 
+Visit **https://shop-cryptopia.vercel.app/**
+
+### Below is the hosting of the local server.
 
 First, create a new repo from the template. Do note that this repo is using YARN and not NPM.
 
