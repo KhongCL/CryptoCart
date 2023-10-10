@@ -2,6 +2,7 @@
 
 ## Getting Started
 
+The project is deployed to vercel.
 Visit **https://shop-cryptopia.vercel.app/**
 
 ### Below is the hosting of the local server.
