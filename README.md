@@ -30,15 +30,16 @@ Open http://localhost:3000 with your browser to see the result.
 Traditional e-commerce platforms struggle with transparency, security, and high fees, causing frustration among consumers. Challenges like credit card exchange fees, complex payment methods, and credit card fraud persist.
 
 ## 💡 Solution:
-CryptoCart revolutionizes online shopping by offering a secure, seamless e-commerce experience with cryptocurrency payments. Embracing cryptocurrency leads to increased transparency, enhanced security, and convenient international transactions. Say goodbye to excessive fees and hello to safer, more private, and decentralized shopping.
+ShopCryptopia revolutionizes online shopping by offering a secure, seamless e-commerce experience with cryptocurrency payments. Embracing cryptocurrency leads to increased transparency, enhanced security, and convenient international transactions. Say goodbye to excessive fees and hello to safer, more private, and decentralized shopping.
 
 ## MARKET OPPORTUNITY:
 
 Cryptocurrency adoption is on the rise.
 E-commerce is a global giant.
 Infinite scalability for growth.
+
 Target Market:
-CryptoCart caters to security-conscious and privacy-oriented customers seeking a hassle-free shopping experience.
+ShopCryptopia caters to security-conscious and privacy-oriented customers seeking a hassle-free shopping experience.
 
 ## BUSINESS MODEL:
 
